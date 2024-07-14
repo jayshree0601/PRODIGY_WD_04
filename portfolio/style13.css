@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgb(90, 90, 161);
+    color: white;
+    height: 60px;
+
+}
+.navbar ul{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    list-style: none;
+    
+
+
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+#logo{
+    margin-right: 130px;
+    font-size: 45px;
+    list-style: none;
+
+}
+.firstsection{
+    display: flex;
+    font-size: 3rem;
+    margin-top: 200px;
+
+}
+
+.firstsection h1{
+    font-style: poppins;
+    font-weight: 5rem;
+    color: white;
+}
+body{
+    background-color: rgb(18, 18, 50);
+}
+.right img{
+    width: 600px;
+    margin-left: 200px;
+}
